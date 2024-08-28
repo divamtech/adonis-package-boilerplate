@@ -14,5 +14,4 @@ test/__app
 
 # Remove after configuration
 yarn.lock
-package-lock.json
 pnpm-lock.yaml
